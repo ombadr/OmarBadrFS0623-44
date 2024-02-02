@@ -18,7 +18,7 @@ $$$$$$$  |\$$$$$$$\ $$ |  $$ |  \$  /   \$$$$$$$\ $$ |  $$ |\$$$$$$  |  \$$$$  |
                                                                                                                                                                                     
 ";
             Console.WriteLine(welcome);
-            Console.WriteLine("");
+            
             Console.Write("Inserisci il nome: ");
             string nome = Console.ReadLine();
 
